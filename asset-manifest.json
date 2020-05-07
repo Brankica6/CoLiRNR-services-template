@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CoLiRNR-services-template/static/css/main.5573dded.chunk.css",
-    "main.js": "/CoLiRNR-services-template/static/js/main.85e54fab.chunk.js",
-    "main.js.map": "/CoLiRNR-services-template/static/js/main.85e54fab.chunk.js.map",
+    "main.js": "/CoLiRNR-services-template/static/js/main.4a443b6f.chunk.js",
+    "main.js.map": "/CoLiRNR-services-template/static/js/main.4a443b6f.chunk.js.map",
     "runtime-main.js": "/CoLiRNR-services-template/static/js/runtime-main.4b70ba95.js",
     "runtime-main.js.map": "/CoLiRNR-services-template/static/js/runtime-main.4b70ba95.js.map",
     "static/css/2.69121389.chunk.css": "/CoLiRNR-services-template/static/css/2.69121389.chunk.css",
     "static/js/2.c6d62930.chunk.js": "/CoLiRNR-services-template/static/js/2.c6d62930.chunk.js",
     "static/js/2.c6d62930.chunk.js.map": "/CoLiRNR-services-template/static/js/2.c6d62930.chunk.js.map",
     "index.html": "/CoLiRNR-services-template/index.html",
-    "precache-manifest.df99eef34ccec8829fe492b387642799.js": "/CoLiRNR-services-template/precache-manifest.df99eef34ccec8829fe492b387642799.js",
+    "precache-manifest.2ec95a4e42beb8f1528755271f6d0455.js": "/CoLiRNR-services-template/precache-manifest.2ec95a4e42beb8f1528755271f6d0455.js",
     "service-worker.js": "/CoLiRNR-services-template/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/CoLiRNR-services-template/static/css/2.69121389.chunk.css.map",
     "static/css/main.5573dded.chunk.css.map": "/CoLiRNR-services-template/static/css/main.5573dded.chunk.css.map",
@@ -33,6 +33,6 @@
     "static/css/2.69121389.chunk.css",
     "static/js/2.c6d62930.chunk.js",
     "static/css/main.5573dded.chunk.css",
-    "static/js/main.85e54fab.chunk.js"
+    "static/js/main.4a443b6f.chunk.js"
   ]
 }
