@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5217e9589b29e0e8bdd685531580805b",
+    "revision": "06f5704c6415732abdb3b65391b1bca2",
     "url": "/CoLiRNR-services-template/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CoLiRNR-services-template/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "bbc2371e06893a31ff48",
-    "url": "/CoLiRNR-services-template/static/css/main.5573dded.chunk.css"
+    "revision": "028c6560746cfd75b7cc",
+    "url": "/CoLiRNR-services-template/static/css/main.51fe7286.chunk.css"
   },
   {
     "revision": "9b6ece1c5919804b1fca",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CoLiRNR-services-template/static/js/2.638cded3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bbc2371e06893a31ff48",
-    "url": "/CoLiRNR-services-template/static/js/main.13fc547f.chunk.js"
+    "revision": "028c6560746cfd75b7cc",
+    "url": "/CoLiRNR-services-template/static/js/main.3bd9c448.chunk.js"
   },
   {
     "revision": "3a5e5bf21a8d150eb0c9",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "115dcae62d6910e1d0fd09760d9daf7b",
     "url": "/CoLiRNR-services-template/static/media/aboutbg.115dcae6.jpg"
+  },
+  {
+    "revision": "dcd70f8e45829cce1ed284eb0d4b0d16",
+    "url": "/CoLiRNR-services-template/static/media/bg1.dcd70f8e.jpg"
   },
   {
     "revision": "0fc2753158b71c59be7d136ed5b5849f",
@@ -42,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d516f0940aab0324ff981943e1ad3854",
     "url": "/CoLiRNR-services-template/static/media/bg6.d516f094.jpg"
-  },
-  {
-    "revision": "0df12664e21e94cc0d15249ee091233b",
-    "url": "/CoLiRNR-services-template/static/media/blogbg.0df12664.jpg"
   },
   {
     "revision": "c48f4b81b063c82d45e44ee4291b1ad4",
