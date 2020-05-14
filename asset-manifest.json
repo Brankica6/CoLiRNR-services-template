@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/CoLiRNR-services-template/static/css/main.51fe7286.chunk.css",
-    "main.js": "/CoLiRNR-services-template/static/js/main.3bd9c448.chunk.js",
-    "main.js.map": "/CoLiRNR-services-template/static/js/main.3bd9c448.chunk.js.map",
+    "main.css": "/CoLiRNR-services-template/static/css/main.6e4b454a.chunk.css",
+    "main.js": "/CoLiRNR-services-template/static/js/main.ae0bfe0d.chunk.js",
+    "main.js.map": "/CoLiRNR-services-template/static/js/main.ae0bfe0d.chunk.js.map",
     "runtime-main.js": "/CoLiRNR-services-template/static/js/runtime-main.4b70ba95.js",
     "runtime-main.js.map": "/CoLiRNR-services-template/static/js/runtime-main.4b70ba95.js.map",
     "static/css/2.69121389.chunk.css": "/CoLiRNR-services-template/static/css/2.69121389.chunk.css",
-    "static/js/2.638cded3.chunk.js": "/CoLiRNR-services-template/static/js/2.638cded3.chunk.js",
-    "static/js/2.638cded3.chunk.js.map": "/CoLiRNR-services-template/static/js/2.638cded3.chunk.js.map",
+    "static/js/2.a8dd1a5a.chunk.js": "/CoLiRNR-services-template/static/js/2.a8dd1a5a.chunk.js",
+    "static/js/2.a8dd1a5a.chunk.js.map": "/CoLiRNR-services-template/static/js/2.a8dd1a5a.chunk.js.map",
     "index.html": "/CoLiRNR-services-template/index.html",
-    "precache-manifest.156b2e5dfce85c3137c635e8a1586ce9.js": "/CoLiRNR-services-template/precache-manifest.156b2e5dfce85c3137c635e8a1586ce9.js",
+    "precache-manifest.b12c65f95be39e0586c17314c8c66357.js": "/CoLiRNR-services-template/precache-manifest.b12c65f95be39e0586c17314c8c66357.js",
     "service-worker.js": "/CoLiRNR-services-template/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/CoLiRNR-services-template/static/css/2.69121389.chunk.css.map",
-    "static/css/main.51fe7286.chunk.css.map": "/CoLiRNR-services-template/static/css/main.51fe7286.chunk.css.map",
-    "static/js/2.638cded3.chunk.js.LICENSE.txt": "/CoLiRNR-services-template/static/js/2.638cded3.chunk.js.LICENSE.txt",
+    "static/css/main.6e4b454a.chunk.css.map": "/CoLiRNR-services-template/static/css/main.6e4b454a.chunk.css.map",
+    "static/js/2.a8dd1a5a.chunk.js.LICENSE.txt": "/CoLiRNR-services-template/static/js/2.a8dd1a5a.chunk.js.LICENSE.txt",
     "static/media/aboutbg.jpg": "/CoLiRNR-services-template/static/media/aboutbg.115dcae6.jpg",
     "static/media/bg1.jpg": "/CoLiRNR-services-template/static/media/bg1.dcd70f8e.jpg",
     "static/media/bg3.jpg": "/CoLiRNR-services-template/static/media/bg3.0fc27531.jpg",
@@ -31,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.4b70ba95.js",
     "static/css/2.69121389.chunk.css",
-    "static/js/2.638cded3.chunk.js",
-    "static/css/main.51fe7286.chunk.css",
-    "static/js/main.3bd9c448.chunk.js"
+    "static/js/2.a8dd1a5a.chunk.js",
+    "static/css/main.6e4b454a.chunk.css",
+    "static/js/main.ae0bfe0d.chunk.js"
   ]
 }
