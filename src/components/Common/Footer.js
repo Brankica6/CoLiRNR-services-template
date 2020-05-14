@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-
+import {Link} from "react-router-dom";
 
 class Footer extends Component {
 
@@ -21,10 +21,10 @@ Hs, Serbia</p>
               <div className="single-footer-widget">
                 <h3 className="color-white">Quick Links</h3>
                 <ul className="quick-links">
-                  <li><a href="/">Home</a></li>
-                  <li><a href="/About">Aboute</a></li>
-                  <li><a href="/Blog">Blog</a></li>
-                  <li><a href="/Contact">Contact</a></li>
+                  <li><Link to="/">Home</Link></li>
+                  <li><Link to="/About">Aboute</Link></li>
+                  <li><Link to="/Blog">Blog</Link></li>
+                  <li><Link to="/Contact">Contact</Link></li>
                 </ul>
               </div>
             </div>
@@ -35,10 +35,10 @@ Hs, Serbia</p>
                 <p>Don't miss a thing! Receive daily news You should connect social area for Any Proper Updates Anytime.</p>
 
                 <ul className="social-links">
-                  <li><a href="/" className="facebook" target="_blank"><i className="fab fa-facebook-f"></i></a></li>
-                  <li><a href="/" className="twitter" target="_blank"><i className="fab fa-twitter"></i></a></li>
-                  <li><a href="/" className="linkedin" target="_blank"><i className="fab fa-linkedin"></i></a></li>
-                  <li><a href="/" className="instagram" target="_blank"><i className="fab fa-instagram"></i></a></li>
+                  <li><a href="https://www.facebook.com/" rel="noopener noreferrer" className="facebook" target="_blank"><i className="fab fa-facebook-f"></i></a></li>
+                  <li><a href="https://www.twitter.com/" rel="noopener noreferrer" className="twitter" target="_blank"><i className="fab fa-twitter"></i></a></li>
+                  <li><a href="https://www.linkedin.com/" rel="noopener noreferrer" className="linkedin" target="_blank"><i className="fab fa-linkedin"></i></a></li>
+                  <li><a href="https://www.instagram.com/" rel="noopener noreferrer" className="instagram" target="_blank"><i className="fab fa-instagram"></i></a></li>
                 </ul>
               </div>
             </div>

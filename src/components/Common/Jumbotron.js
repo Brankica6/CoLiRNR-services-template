@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import {Link} from "react-router-dom";
 
 class Jumbtron extends Component {
 
@@ -16,7 +17,7 @@ class Jumbtron extends Component {
               </div>
               <div className="col-md-3 ml-auto align-self-end">
               <ul className="page-breadcrumbs text-right">
-                <li><a href="/">Home </a></li>
+                <li><Link to="/">Home </Link></li>
                <li> {this.props.page} </li> </ul>
              </div>
             </div>
