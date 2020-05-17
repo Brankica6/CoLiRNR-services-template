@@ -874,7 +874,6 @@ body {
   display: block;
   text-transform: uppercase;
   font-size: 14px;
-  font-family: "Oswald", sans-serif;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -959,7 +958,6 @@ body {
   display: inline-block;
   position: relative;
   color: #707070;
-  font-family: "Oswald", sans-serif;
   font-size: 14px;
   margin-left: 9px;
   margin-right: 9px;
@@ -1145,7 +1143,7 @@ body {
   margin-bottom: 0;
 }
 
-.sidebar .widget.widget_tag_cloud .tagcloud a {
+.sidebar .widget.widget_tag_cloud .tagcloud ul li {
   font-size: 15px !important;
   border: 1px dashed #eeeeee;
   padding: 7px 20px;
@@ -1154,7 +1152,7 @@ body {
   display: inline-block;
 }
 
-.sidebar .widget.widget_tag_cloud .tagcloud a:hover {
+.sidebar .widget.widget_tag_cloud .tagcloud ul li:hover {
   background: #FF2D55;
   color: #ffffff;
   border-color: #FF2D55;
