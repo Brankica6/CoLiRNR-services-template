@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea284cdfb0fa90aa732d8be104c4135c",
+    "revision": "a55a7ce5a0bf27b029cc230aa68459e4",
     "url": "/CoLiRNR-services-template/index.html"
   },
   {
-    "revision": "d0a9642fdaa6d2e39d43",
+    "revision": "77fc044015db2428121e",
     "url": "/CoLiRNR-services-template/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "a7058f82bbe98a8a037d",
-    "url": "/CoLiRNR-services-template/static/css/main.6e4b454a.chunk.css"
+    "revision": "f55c33bcd7cca6790fd4",
+    "url": "/CoLiRNR-services-template/static/css/main.e25c2c2d.chunk.css"
   },
   {
-    "revision": "d0a9642fdaa6d2e39d43",
-    "url": "/CoLiRNR-services-template/static/js/2.a8dd1a5a.chunk.js"
+    "revision": "77fc044015db2428121e",
+    "url": "/CoLiRNR-services-template/static/js/2.207c433e.chunk.js"
   },
   {
     "revision": "cacaf3f01dd3bd8237006f7c58951c1c",
-    "url": "/CoLiRNR-services-template/static/js/2.a8dd1a5a.chunk.js.LICENSE.txt"
+    "url": "/CoLiRNR-services-template/static/js/2.207c433e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a7058f82bbe98a8a037d",
-    "url": "/CoLiRNR-services-template/static/js/main.ae0bfe0d.chunk.js"
+    "revision": "f55c33bcd7cca6790fd4",
+    "url": "/CoLiRNR-services-template/static/js/main.a9df9359.chunk.js"
   },
   {
     "revision": "3a5e5bf21a8d150eb0c9",
