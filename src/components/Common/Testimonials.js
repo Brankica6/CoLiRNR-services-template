@@ -17,11 +17,11 @@ class Testimonials extends Component {
           <div className="row d-flex justify-content-between">
           <Slide bottom duration= {2000}>
             <div className="col-md-6">
-              <div className="quote"><i className="fas fa-quote-left text-white"></i></div>
+              <div className="quote"><i className="fas fa-quote-left text-dark"></i></div>
               <div className="testimonial-wrapper bg-blue">
-                <div className="testimonial-content text-center text-white">
+                <div className="testimonial-content text-center text-dark">
                   <div className="testimonial-text">
-                    <p className="text-white">Lorem ipsum sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p className="text-dark">Lorem ipsum sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                     <span className="testimonial-author">Adeline West</span>
                   </div>
                 </div>
@@ -31,7 +31,7 @@ class Testimonials extends Component {
           <Slide bottom duration= {2000}>
             <div className="col-md-6">
               <div className="testimonial-wrapper bg-gray">
-                <div className="quote"><i className="fas fa-quote-left text-gray"></i></div>
+                <div className="quote"><i className="fas fa-quote-left text-dark"></i></div>
                 <div className="testimonial-content text-center text-dark">
                   <div className="testimonial-text">
                     <p className="text-dark">Lorem ipsum sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -43,7 +43,7 @@ class Testimonials extends Component {
           </Slide>
           <Slide bottom duration= {2000}>
             <div className="col-md-6">
-              <div className="quote"><i className="fas fa-quote-left text-gray"></i></div>
+              <div className="quote"><i className="fas fa-quote-left text-dark"></i></div>
               <div className="testimonial-wrapper bg-gray">
                 <div className="testimonial-content text-center text-dark">
                   <div className="testimonial-text">
@@ -56,11 +56,11 @@ class Testimonials extends Component {
             </Slide>
             <Slide bottom duration= {2000}>
               <div className="col-md-6">
-                <div className="testimonial-wrapper bg-dark-blue">
-                  <div className="quote"><i className="fas fa-quote-left text-white"></i></div>
-                  <div className="testimonial-content text-center text-white">
+                <div className="testimonial-wrapper bg-blue">
+                  <div className="quote"><i className="fas fa-quote-left text-dark"></i></div>
+                  <div className="testimonial-content text-center text-dark">
                     <div className="testimonial-text">
-                      <p className="text-white">Lorem ipsum sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                      <p className="text-dark">Lorem ipsum sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                       <span className="testimonial-author">Adeline West</span>
                     </div>
                   </div>

@@ -5,7 +5,7 @@ const services = [
   {title: 'Laptop Repair / Desktop Repair',
   desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.',
   icon: 'fa-tools',
-  bgColor: 'bg-blue'
+  bgColor: 'bg-orange'
   },
   {title: 'Virus and Spyware Removal',
   desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.',
@@ -25,7 +25,7 @@ const services = [
   {title: 'Cloud Services',
   desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.',
   icon: 'fa-cloud',
-  bgColor: 'bg-dark-blue'
+  bgColor: 'bg-orange'
   },
   {title: 'Cyber Security',
   desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.',

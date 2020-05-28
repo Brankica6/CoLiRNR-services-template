@@ -8,7 +8,7 @@ class ServiceItem extends Component {
       <Slide bottom duration= {2000}>
          <div className="col-md-4">
            <div className={`card-wrapper ${this.props.bgColor}`}>
-             <div className="card-content text-center text-white">
+             <div className="card-content text-center text-dark">
                <div className="card-icon">
                  <span className="icon"><i className={`fas ${this.props.icon} fa-5x`}></i></span>
                </div>

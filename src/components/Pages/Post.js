@@ -21,7 +21,7 @@ class Post extends Component {
     })
     return {
       posts: result[0],
-      currentId: slug,
+      currentSlug: slug,
     }
   }
 
@@ -44,7 +44,7 @@ class Post extends Component {
     const {imgUrl, title, date, description} = this.state.posts;
     return (
       <div>
-        <Jumbotron image = {img1} title={this.state.title} description={''} page={'Post'}/>
+        <Jumbotron image = {img1} title={title} description={''} page={'Post'}/>
         <section className="section-8">
       	   <div className="section-wrapper">
              <div className="row">

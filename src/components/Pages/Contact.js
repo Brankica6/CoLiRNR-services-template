@@ -14,7 +14,7 @@ class Contact extends Component {
         <div className="section-wrapper">
           <div className="row">
             <div className="col-lg-4 col-md-6 mb-3">
-                <div className="contact-wrapper bg-blue">
+                <div className="contact-wrapper bg-gray text-dark">
                     <div className="icon text-center">
                         <i className="fas fa-phone fa-3x"></i>
                     </div>
@@ -26,12 +26,12 @@ class Contact extends Component {
                 </div>
             </div>
             <div className="col-lg-4 col-md-6 mb-3">
-                <div className="contact-wrapper bg-gray">
-                    <div className="icon text-dark text-center">
+                <div className="contact-wrapper bg-gray text-dark">
+                    <div className="icon text-center">
                         <i className="fas fa-envelope-square fa-3x"></i>
                     </div>
 
-                    <div className="contact-content text-dark">
+                    <div className="contact-content">
                         <h4>E-mail</h4>
                         <p><a href="mailto:info@domain.com" className="text-dark">info@domain.com</a></p>
 
@@ -39,7 +39,7 @@ class Contact extends Component {
                 </div>
             </div>
             <div className="col-lg-4 col-md-6 mb-3">
-                <div className="contact-wrapper bg-dark-blue">
+                <div className="contact-wrapper bg-gray text-dark">
                     <div className="icon text-center">
                         <i className="fas fa-globe-europe fa-3x"></i>
                     </div>
@@ -69,7 +69,7 @@ class Contact extends Component {
                        onBlur={this.props.handleBlur}
                        errors={this.props.errors.name}
                        /></span>
-                       <p className="help-block text-danger">
+                       <p className="help-block text-error">
                        {(this.props.touched.name && this.props.errors.name) &&
                          <span>{this.props.errors.name}</span>
                        }
@@ -86,7 +86,7 @@ class Contact extends Component {
                        onChange={this.props.handleChange}
                        onBlur={this.props.handleBlur}
                        errors={this.props.errors.email}
-                       /></span><p className="help-block text-danger">
+                       /></span><p className="help-block text-error">
                        {(this.props.touched.email && this.props.errors.email) &&
                          <span>{this.props.errors.email}</span>
                        }
@@ -102,7 +102,7 @@ class Contact extends Component {
                       onChange={this.props.handleChange}
                       onBlur={this.props.handleBlur}
                       errors={this.props.errors.message}
-                      /></span><p className="help-block text-danger">
+                      /></span><p className="help-block text-error">
                       {(this.props.touched.message && this.props.errors.message) &&
                         <span>{this.props.errors.message}</span>
                       }
