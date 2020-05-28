@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CoLiRNR-services-template/precache-manifest.e32c780c58d1d527c9be0acee583b3bb.js"
+  "/CoLiRNR-services-template/precache-manifest.979685c86c322e171047de3e128f3ab7.js"
 );
 
 self.addEventListener('message', (event) => {

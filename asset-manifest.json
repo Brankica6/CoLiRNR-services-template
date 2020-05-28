@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/CoLiRNR-services-template/static/css/main.0b0744e1.chunk.css",
-    "main.js": "/CoLiRNR-services-template/static/js/main.faa8bb1f.chunk.js",
-    "main.js.map": "/CoLiRNR-services-template/static/js/main.faa8bb1f.chunk.js.map",
+    "main.css": "/CoLiRNR-services-template/static/css/main.483660eb.chunk.css",
+    "main.js": "/CoLiRNR-services-template/static/js/main.957a5fc5.chunk.js",
+    "main.js.map": "/CoLiRNR-services-template/static/js/main.957a5fc5.chunk.js.map",
     "runtime-main.js": "/CoLiRNR-services-template/static/js/runtime-main.4b70ba95.js",
     "runtime-main.js.map": "/CoLiRNR-services-template/static/js/runtime-main.4b70ba95.js.map",
     "static/css/2.69121389.chunk.css": "/CoLiRNR-services-template/static/css/2.69121389.chunk.css",
     "static/js/2.eb4b4471.chunk.js": "/CoLiRNR-services-template/static/js/2.eb4b4471.chunk.js",
     "static/js/2.eb4b4471.chunk.js.map": "/CoLiRNR-services-template/static/js/2.eb4b4471.chunk.js.map",
     "index.html": "/CoLiRNR-services-template/index.html",
-    "precache-manifest.e32c780c58d1d527c9be0acee583b3bb.js": "/CoLiRNR-services-template/precache-manifest.e32c780c58d1d527c9be0acee583b3bb.js",
+    "precache-manifest.979685c86c322e171047de3e128f3ab7.js": "/CoLiRNR-services-template/precache-manifest.979685c86c322e171047de3e128f3ab7.js",
     "service-worker.js": "/CoLiRNR-services-template/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/CoLiRNR-services-template/static/css/2.69121389.chunk.css.map",
-    "static/css/main.0b0744e1.chunk.css.map": "/CoLiRNR-services-template/static/css/main.0b0744e1.chunk.css.map",
+    "static/css/main.483660eb.chunk.css.map": "/CoLiRNR-services-template/static/css/main.483660eb.chunk.css.map",
     "static/js/2.eb4b4471.chunk.js.LICENSE.txt": "/CoLiRNR-services-template/static/js/2.eb4b4471.chunk.js.LICENSE.txt",
     "static/media/aboutbg.jpg": "/CoLiRNR-services-template/static/media/aboutbg.115dcae6.jpg",
     "static/media/bg1.jpg": "/CoLiRNR-services-template/static/media/bg1.dcd70f8e.jpg",
@@ -32,7 +32,7 @@
     "static/js/runtime-main.4b70ba95.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.eb4b4471.chunk.js",
-    "static/css/main.0b0744e1.chunk.css",
-    "static/js/main.faa8bb1f.chunk.js"
+    "static/css/main.483660eb.chunk.css",
+    "static/js/main.957a5fc5.chunk.js"
   ]
 }

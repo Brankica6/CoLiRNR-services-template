@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41bd4c2321725720a39ab529d920d48e",
+    "revision": "12eb72878f425301f422f4f91b6f7d84",
     "url": "/CoLiRNR-services-template/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CoLiRNR-services-template/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "65839c7f84d41b9949db",
-    "url": "/CoLiRNR-services-template/static/css/main.0b0744e1.chunk.css"
+    "revision": "7421152118c93cd8e701",
+    "url": "/CoLiRNR-services-template/static/css/main.483660eb.chunk.css"
   },
   {
     "revision": "56615d1d8d983004b4da",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CoLiRNR-services-template/static/js/2.eb4b4471.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "65839c7f84d41b9949db",
-    "url": "/CoLiRNR-services-template/static/js/main.faa8bb1f.chunk.js"
+    "revision": "7421152118c93cd8e701",
+    "url": "/CoLiRNR-services-template/static/js/main.957a5fc5.chunk.js"
   },
   {
     "revision": "3a5e5bf21a8d150eb0c9",
