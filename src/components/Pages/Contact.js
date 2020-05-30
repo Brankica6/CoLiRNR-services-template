@@ -118,7 +118,7 @@ class Contact extends Component {
             <div className="col-lg-4 col-md-12 pt-5">
               <div className="leave-your-message">
                 <h3>Leave Your Message</h3>
-                <p>If you have any questions about the services we provide simply use the htmlForm below. We try and respond to all queries and comments within 24 hours.</p>
+                <p>If you have any questions about the services we provide simply use the Form below. We try and respond to all queries and comments within 24 hours.</p>
             </div>
             </div>
           </div>
@@ -134,34 +134,16 @@ export default withFormik({
   mapPropsToValues: () => ({
     name: '',
     email: '',
-    phone: '245354354354',
     message: '',
   }),
-  /*validate: values => {
-    const errors = {};
-
-    Object.keys(values).map(v => {
-      if(!values[v]){
-        errors[v] = 'Required';
-      }
-    })
-
-    return errors;
-
-  },*/
   validationSchema: Yup.object().shape({
-    name: Yup.string().min(3,'Come on bro your name is longer than that').required('You must give us your name!'),
+    name: Yup.string().required('You must give us your name!'),
     email: Yup.string().email('You need to give us a valid email').required('We need your email'),
-    phone: Yup.string()
-      .min(10,'Please provide your 10 digit phone number')
-      .max(15,'Your phone is too long')
-      .required('We need a phone number to reach you at'),
     message: Yup.string()
       .min(300,'You need to provide us more detailed.')
       .required('Message is required'),
   }),
   handleSubmit: (values, {setSubmitting}) => {
-    alert("You've submitted the htmlForm", JSON.stringify(values));
-    console.log(values);
+    alert("You've submitted the Form", JSON.stringify(values));
   }
 })(Contact);
